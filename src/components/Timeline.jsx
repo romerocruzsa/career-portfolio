@@ -15,15 +15,27 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-8">
+                      <div className="timeline-icon color-2">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>Activities Director at IEEE Engineering in Medicine and Biology Society <span>Aug 2021 - Present</span></h2>
                         <p>Organize logistics for recreational and professional workshops and events for members of IEEE Engineering in Medicine Biology Society UPRM Chapter and the general 
                           public. Interact with companies, faculty, and students, enhancing their experience, and gaining interpersonal skills. </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-8">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Society of Hispanic Professional Engineers MentorSHPE <span>Aug 2021 - Present</span></h2>
+                        <p>Serve as guidance, both professionally and personally, to freshmen, sophomores, and juniors under the MentorSHPE program. I am currently mentoring two freshman students 
+                          Joyce M. Tirado-Casiano and Tatiana M. Zapata Cancel. Joyce is a software engineering major while Tatiana is a industrial biotechnology major.</p>
                       </div>
                     </div>
                   </article>
